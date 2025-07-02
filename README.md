@@ -1,5 +1,8 @@
 # travel-cities-vue
 
+## Add the data into the database
+Before start the projuect, you should add the data to your postgre database
+
 ## Project setup
 ```
 npm install
